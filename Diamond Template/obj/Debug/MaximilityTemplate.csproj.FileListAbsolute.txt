@@ -1,0 +1,14 @@
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\bin\Debug\MaximilityTemplate.dll
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\bin\Debug\MaximilityTemplate.pdb
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.csproj.AssemblyReference.cache
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.csproj.CopyComplete
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.dll
+C:\Users\Aksel\Desktop\MaximilityTemplate\MaximilityTemplate\obj\Debug\MaximilityTemplate.pdb
+C:\Users\riley\Downloads\Diamond Client Fan Games\GorillaTagFanGame-ModMenuTemplate-main\bin\Debug\MaximilityTemplate.dll
+C:\Users\riley\Downloads\Diamond Client Fan Games\GorillaTagFanGame-ModMenuTemplate-main\bin\Debug\MaximilityTemplate.pdb
+C:\Users\riley\Downloads\Diamond Client Fan Games\GorillaTagFanGame-ModMenuTemplate-main\obj\Debug\MaximilityTemplate.csproj.AssemblyReference.cache
+C:\Users\riley\Downloads\Diamond Client Fan Games\GorillaTagFanGame-ModMenuTemplate-main\obj\Debug\MaximilityTemplate.csproj.CoreCompileInputs.cache
+C:\Users\riley\Downloads\Diamond Client Fan Games\GorillaTagFanGame-ModMenuTemplate-main\obj\Debug\MaximilityTemplate.csproj.CopyComplete
+C:\Users\riley\Downloads\Diamond Client Fan Games\GorillaTagFanGame-ModMenuTemplate-main\obj\Debug\MaximilityTemplate.dll
+C:\Users\riley\Downloads\Diamond Client Fan Games\GorillaTagFanGame-ModMenuTemplate-main\obj\Debug\MaximilityTemplate.pdb
